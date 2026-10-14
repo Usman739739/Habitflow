@@ -1,0 +1,6 @@
+{
+  "name": "HabitFlow - Android Compose Habit Tracker",
+  "description": "Production-ready Android Jetpack Compose Habit Tracker with Material 3, Room Database, MVVM architecture, streak analytics, and full Kotlin source code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
